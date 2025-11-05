@@ -4,7 +4,7 @@ This Library Management System is a Java-based console application that helps ma
 It allows adding and viewing books, registering members, and issuing books to members using a MySQL database for data storage. 
 The system is designed to be simple, user-friendly, and efficient.
 
-✨ Features
+# ✨ Features
 
 Add New Books to the library
 
